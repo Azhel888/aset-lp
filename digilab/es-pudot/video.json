@@ -1,0 +1,29 @@
+{
+  "catatan": "Video & poster di repo Azhel888/aset-lp folder digilab/es-pudot/ (commit d5ea5aa, 24 Nov 2026). Versi 720p ±9 MB (batas jsDelivr 20 MB).",
+  "video": [
+    {
+      "judul": "Choco Cheese & Matcha Cheese",
+      "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t01-choco-matcha-cheese.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t01-choco-matcha-cheese.jpg",
+      "resep": "ep-02",
+      "durasi": "1,5 menit",
+      "grup": "Resep"
+    },
+    {
+      "judul": "Mango Sago",
+      "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t02-mango-sago.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t02-mango-sago.jpg",
+      "resep": "ep-03",
+      "durasi": "1,5 menit",
+      "grup": "Resep"
+    },
+    {
+      "judul": "Cheese Milk Selai 3 Rasa",
+      "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t03-cheese-milk-selai.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t03-cheese-milk-selai.jpg",
+      "resep": "ep-04",
+      "durasi": "1,5 menit",
+      "grup": "Resep"
+    }
+  ]
+}
