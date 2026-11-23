@@ -1,29 +1,78 @@
 {
-  "catatan": "Video & poster di repo Azhel888/aset-lp folder digilab/es-pudot/ (commit d5ea5aa, 24 Nov 2026). Versi 720p ±9 MB (batas jsDelivr 20 MB).",
+  "catatan": "3 VIDEO TEKNIK DASAR (24 Nov 2026): tiap video = 1 teknik; resepTeknik = resep lain yang langkahnya sama, catatanResep = bedanya singkat (tampil di detail resep). Video di commit d5ea5aa, poster (kartu judul) di commit bd616fd.",
   "video": [
     {
-      "judul": "Choco Cheese & Matcha Cheese",
+      "judul": "Teknik 1 · Puding 2 lapis",
       "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t01-choco-matcha-cheese.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t01-choco-matcha-cheese.jpg",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@bd616fd45eadeedc74dffe32d6f65737579ea0e1/digilab/es-pudot/t01-choco-matcha-cheese.jpg",
       "resep": "ep-02",
       "durasi": "1,5 menit",
-      "grup": "Resep"
+      "grup": "Teknik dasar",
+      "catatan": "Masak adonan dasar, bagi rasa, tuang hangat, lapisan susu dituang setelah puding set. Dipakai di 12 resep.",
+      "resepTeknik": [
+        "ep-01",
+        "ep-05",
+        "ep-06",
+        "ep-07",
+        "ep-08",
+        "ep-12",
+        "ep-14",
+        "ep-15",
+        "ep-16",
+        "ep-18",
+        "ep-20"
+      ],
+      "catatanResep": {
+        "ep-01": "Cukup 1 lapis: rasa vanila, tanpa lapisan susu.",
+        "ep-05": "Sebagian cairan diganti seduhan thai tea; lapisan susu dipanaskan sampai beruap.",
+        "ep-06": "Rasa dari Milo, dimasukkan setelah api mati; lapisan susu dipanaskan dulu.",
+        "ep-07": "Stroberi diblender masuk adonan; lapisan susu dingin dituang setelah set.",
+        "ep-08": "Adonan dibagi 5 warna pakai minuman sachet; tanpa lapisan susu, bisa di pouch.",
+        "ep-12": "Rasa kopi; ada garis saus gula aren di atas puding sebelum lapisan susu.",
+        "ep-14": "Potongan cincau ditaruh di dasar botol dulu, lalu puding kopi susu dituang di atasnya.",
+        "ep-15": "Puding vanila; lapisan atasnya susu Oreo yang diblender.",
+        "ep-16": "Puding pandan pakai santan; lapisan atasnya santan yang dimasak dengan daun pandan.",
+        "ep-18": "Alpukat diblender masuk adonan; lapisan atasnya susu cokelat Milo.",
+        "ep-20": "Rasa melon dari minuman sachet; lapisan susu dipanaskan dulu."
+      }
     },
     {
-      "judul": "Mango Sago",
+      "judul": "Teknik 2 · Puding + isian buah & sagu",
       "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t02-mango-sago.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t02-mango-sago.jpg",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@bd616fd45eadeedc74dffe32d6f65737579ea0e1/digilab/es-pudot/t02-mango-sago.jpg",
       "resep": "ep-03",
       "durasi": "1,5 menit",
-      "grup": "Resep"
+      "grup": "Teknik dasar",
+      "catatan": "Lapisan puding, isian yang direbus (sagu/boba), buah diblender, lalu lapisan susu. Dipakai di 4 resep.",
+      "resepTeknik": [
+        "ep-13",
+        "ep-17",
+        "ep-19"
+      ],
+      "catatanResep": {
+        "ep-13": "Isiannya boba: direbus lalu dimasak di saus gula aren (mirip cara masak sagu), puding susu dituang di atasnya.",
+        "ep-17": "Lapisan alpukat, isian nangka & kelapa muda, lalu lapisan susu kelapa.",
+        "ep-19": "Dua lapis jelly (kelapa di bawah, jeruk di atas) dengan biji selasih yang direndam dulu."
+      }
     },
     {
-      "judul": "Cheese Milk Selai 3 Rasa",
+      "judul": "Teknik 3 · Milk Cheese + kuah dimasak",
       "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t03-cheese-milk-selai.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@d5ea5aa5d5c560eaf047267c191fc4de26c7fe9c/digilab/es-pudot/t03-cheese-milk-selai.jpg",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@bd616fd45eadeedc74dffe32d6f65737579ea0e1/digilab/es-pudot/t03-cheese-milk-selai.jpg",
       "resep": "ep-04",
       "durasi": "1,5 menit",
-      "grup": "Resep"
+      "grup": "Teknik dasar",
+      "catatan": "Adonan dibagi 3 rasa, kuah keju dimasak supaya awet, selai dioles di dinding botol. Dipakai di 4 resep.",
+      "resepTeknik": [
+        "ep-09",
+        "ep-10",
+        "ep-11"
+      ],
+      "catatanResep": {
+        "ep-09": "Sama persis, cuma 6 sachet rasa taro (+ pewarna ungu), tanpa olesan selai.",
+        "ep-10": "Sama persis, cuma 6 sachet rasa red velvet (+ pewarna merah), tanpa olesan selai.",
+        "ep-11": "Sama persis, cuma 6 sachet rasa mangga (+ pewarna kuning), tanpa olesan selai."
+      }
     }
   ]
 }
