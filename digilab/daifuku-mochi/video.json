@@ -1,0 +1,32 @@
+{
+  "catatan": "1 VIDEO TEKNIK DASAR untuk semua 16 resep Daifuku (24 Nov 2026, owner). resepTeknik = resep lain yang tekniknya sama, catatanResep = bedanya singkat (tampil di detail resep).",
+  "video": [
+    {
+      "judul": "Teknik dasar · Kulit, krim & cara bungkus",
+      "url": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@5eb100cc6956f6709c927adfd3ecf53ee47575ef/digilab/daifuku-mochi/t01-teknik-dasar.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/Azhel888/aset-lp@5eb100cc6956f6709c927adfd3ecf53ee47575ef/digilab/daifuku-mochi/t01-teknik-dasar.jpg",
+      "resep": "dm-01",
+      "durasi": "2,5 menit",
+      "grup": "Teknik dasar",
+      "catatan": "Tonton ini dulu sebelum bikin resep apa pun: sangrai baluran, kulit ketan kukus, krim dasar, uleni, isi & rapatkan. Dipakai di semua 16 resep.",
+      "resepTeknik": ["dm-02", "dm-03", "dm-04", "dm-05", "dm-06", "dm-07", "dm-08", "dm-09", "dm-10", "dm-11", "dm-12", "dm-13", "dm-14", "dm-15", "dm-16"],
+      "catatanResep": {
+        "dm-02": "Sama persis, isiannya 1 butir anggur hijau yang dilap kering; kulit diberi pewarna hijau muda.",
+        "dm-03": "Krim dasar ditambah pasta pistachio, isian kunafa yang disangrai dengan mentega sampai renyah.",
+        "dm-04": "Kulit cokelat, krim dicampur cocoa, isi 1 bola truffle cokelat dingin; dibalur cokelat bubuk.",
+        "dm-05": "Kulit dicampur bubuk matcha; krim ditambah pasta matcha & Oreo.",
+        "dm-06": "Krim kopi dengan cream cheese; ditabur cocoa.",
+        "dm-07": "Krim ditambah cream cheese, isian mangga potong dadu; kulit diberi pewarna kuning.",
+        "dm-08": "Kulit cokelat; krim cokelat + cream cheese dengan choco chip & crispy ball; dibalur cokelat bubuk.",
+        "dm-09": "Krim ditambah cream cheese, selai & biskuit Lotus.",
+        "dm-10": "Krim Milo dengan cream cheese & sereal cokelat; dibalur bubuk Milo.",
+        "dm-11": "Dua krim: cokelat & karamel, isi potongan Beng-Beng; dibalur cokelat bubuk.",
+        "dm-12": "Krim ditambah cream cheese & susu bubuk.",
+        "dm-13": "Krim ditambah taro paste & cream cheese.",
+        "dm-14": "Tanpa krim: isiannya pasta kacang merah (anko) yang dimasak dulu.",
+        "dm-15": "Krim ditambah daging durian & cream cheese.",
+        "dm-16": "Kulitnya marshmallow cokelat yang dimasak di panci (tanpa kukus), dibalur cocoa; cara uleni hangat, bungkus & rapatkan sama dengan video."
+      }
+    }
+  ]
+}
